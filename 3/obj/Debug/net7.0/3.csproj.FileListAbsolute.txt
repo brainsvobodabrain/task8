@@ -1,0 +1,15 @@
+/home/brain/LEKCII/c#practic8/task8/3/bin/Debug/net7.0/3
+/home/brain/LEKCII/c#practic8/task8/3/bin/Debug/net7.0/3.deps.json
+/home/brain/LEKCII/c#practic8/task8/3/bin/Debug/net7.0/3.runtimeconfig.json
+/home/brain/LEKCII/c#practic8/task8/3/bin/Debug/net7.0/3.dll
+/home/brain/LEKCII/c#practic8/task8/3/bin/Debug/net7.0/3.pdb
+/home/brain/LEKCII/c#practic8/task8/3/obj/Debug/net7.0/3.csproj.AssemblyReference.cache
+/home/brain/LEKCII/c#practic8/task8/3/obj/Debug/net7.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/home/brain/LEKCII/c#practic8/task8/3/obj/Debug/net7.0/3.AssemblyInfoInputs.cache
+/home/brain/LEKCII/c#practic8/task8/3/obj/Debug/net7.0/3.AssemblyInfo.cs
+/home/brain/LEKCII/c#practic8/task8/3/obj/Debug/net7.0/3.csproj.CoreCompileInputs.cache
+/home/brain/LEKCII/c#practic8/task8/3/obj/Debug/net7.0/3.dll
+/home/brain/LEKCII/c#practic8/task8/3/obj/Debug/net7.0/refint/3.dll
+/home/brain/LEKCII/c#practic8/task8/3/obj/Debug/net7.0/3.pdb
+/home/brain/LEKCII/c#practic8/task8/3/obj/Debug/net7.0/3.genruntimeconfig.cache
+/home/brain/LEKCII/c#practic8/task8/3/obj/Debug/net7.0/ref/3.dll
